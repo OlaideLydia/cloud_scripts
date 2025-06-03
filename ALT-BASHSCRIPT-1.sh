@@ -2,7 +2,7 @@
 
 # Verify that a filename argument is provided
 if [ -z "$1" ]; then
-  echo "Usage: ./check_file.sh <filename>"
+  echo "Usage: ./ALT-BASHSCRIPTS-1.sh <filename>"
   exit 1
 fi
 

@@ -2,7 +2,7 @@
 
 # Ensure directory path argument is provided
 if [ -z "$1" ]; then
-  echo "Usage: ./count_files.sh <directory_path>"
+  echo "Usage: ./ALT-BASHSCRIPTS-2.sh <directory_path>"
   exit 1
 fi
 
